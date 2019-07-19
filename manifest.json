@@ -1,0 +1,20 @@
+{
+  "short_name": "My App",
+  "name": "My Super Cool App",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/img/",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/img/",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ff0000",
+  "display": "standalone",
+  "theme_color": "#ff0000"
+}
